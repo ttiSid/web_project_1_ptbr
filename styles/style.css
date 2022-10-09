@@ -7,7 +7,6 @@
   margin: 0 auto;
   /* this ensures that all content is centered on screens wider than 1600px */
   font-family: "Helvetica Neue", Arial, sans-serif;
-  border: 1px solid red;
 }
 
 .header {
@@ -78,6 +77,43 @@
   height: 568px;
   width: 568px;
   background-color: #2f80ed;
+}
+
+/*Description Section*/
+.two-columns {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 80%;
+  margin: 100px auto;
+}
+
+.two-columns__brief {
+  width: 175px;
+  margin: 0;
+  line-height: 1.2rem;
+  font-size: 18px;
+  font-weight: normal;
+  color: #2f80ed;
+}
+
+.two-columns__main-text {
+  width: 80%;
+  min-width: 784px;
+}
+
+.two-columns__paragraph {
+  line-height: 34px;
+  font-size: 24px;
+  margin: 0px 0px 0px;
+}
+
+.two-columns__paragraph:first-child {
+  margin-bottom: 30px;
+}
+
+.two-columns__span-accent {
+  font-weight: bold;
 }
 
 /* including elements with key-value modifiers */
