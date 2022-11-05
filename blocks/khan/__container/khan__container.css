@@ -1,0 +1,6 @@
+.khan__container {
+  display: flex;
+  flex-direction: column;
+  margin: 0px auto;
+  width: 80%;
+}
