@@ -1,3 +1,7 @@
+@import url(../section-title/__section-title.css);
+@import url(../section-subtitle/__section-subtitle.css);
+@import url(../table/__table.css);
+
 .digits {
   display: flex;
   flex-direction: column;
