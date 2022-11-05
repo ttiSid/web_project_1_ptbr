@@ -1,3 +1,5 @@
+@import url(../../rotation/__rotation.css);
+
 .header__square {
   position: absolute;
   top: 64px;
@@ -5,4 +7,5 @@
   height: 568px;
   width: 568px;
   background-color: #2f80ed;
+  transform: rotate(-15deg);
 }
