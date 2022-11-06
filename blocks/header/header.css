@@ -4,7 +4,6 @@
 @import url(./__main-ilustration/header__main-ilustration.css);
 @import url(./__square/header__square.css);
 @import url(./__subtitle/header__subtitle.css);
-@import url(./__title/header__title.css);
 
 .header {
   position: relative;

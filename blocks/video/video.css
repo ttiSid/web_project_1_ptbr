@@ -1,7 +1,6 @@
 @import url(../section-title/__section-title.css);
 @import url(../section-subtitle/__section-subtitle.css);
 @import url(./__iframes/video__iframes.css);
-@import url(./__iframe/video__iframe.css);
 
 .video {
   padding-top: 100px;
