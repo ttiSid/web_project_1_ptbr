@@ -1,6 +1,3 @@
-@import url(../section-title/__section-title.css);
-@import url(../section-subtitle/__section-subtitle.css);
-
 .digits {
   display: flex;
   flex-direction: column;
